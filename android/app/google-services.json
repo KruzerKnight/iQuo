@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "447077517507",
+    "project_id": "iquo-app",
+    "storage_bucket": "iquo-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447077517507:android:56424252d96eaddea3fa76",
+        "android_client_info": {
+          "package_name": "com.KruzerPhoenix.iquo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "447077517507-fl5oj8hps917sli8071hohf8l66dg1ma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvvG8SgUb6EV4NCcNVc3nhR8e2NzghQ9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "447077517507-fl5oj8hps917sli8071hohf8l66dg1ma.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
