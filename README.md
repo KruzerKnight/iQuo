@@ -1,4 +1,4 @@
-# iquo
+# iQuo
 
 A new Flutter project.
 
